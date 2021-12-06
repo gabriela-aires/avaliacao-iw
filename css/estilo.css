@@ -1,0 +1,20 @@
+.titulos{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #1AD953;
+}
+
+.textos{
+    font-family: 'Times New Roman', Times, serif;
+    color: #0E752D;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.texto{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: #0E752D;
+    margin-left: 150px;
+    margin-right: 150px;
+}
